@@ -15,31 +15,30 @@
 ## Skills
 |Programmiersprachen|Level|
 |-|-|
-|C|low|
-|C++|low|
-|C#|medium|
-|Java|medium-high|
-|Python|medium-high|
-|go|medium-high|
+|C|3/10|
+|C++|3/10|
+|C#|5/10|
+|Java|7/10|
+|Python|7/10|
+|go|6/10|
 
 |Entwicklung|Level|
 |-|-|
-|API|high|
-|REST|high|
-|SOAP|medium|
-|Docker|medium|
-|Git|high|
+|API|8/10|
+|REST|8/10|
+|SOAP|6/10|
+|Docker|6/10|
+|Git|9/10|
 
 |Sprachen|Skill|
 |-|-|
-|Denglish|Profi|
 |Deutsch|Muttersprache|
 |Englisch|fließend|
-|Schriftlicher Ausdruck|low|
 
 ## Vorstellungen
-Backend-Entwicklung
-Web-Service Entwicklung
-Web-Shop-Entwicklung
-
-wenig Frontend oder nur nach Vorgabe (sehr unkreativ aber im Umsetzen i.o.)
+- Backend-Entwicklung
+- Web-Service Entwicklung
+- Web-Shop-Entwicklung
+- wenig Frontend/nur nach genauer Vorgabe
+    - Umsetzungen sind i.O.
+    - Eigene Entwürfe eher schlecht
