@@ -11,6 +11,7 @@
 2019-2022 Duales Studium Angewandte Informatik
 - Dualer Partner: Deutsche Bundesbank
 - Duale Hochschule: Duale Hochschule Baden-Württemberg, Mosbach
+- Versionsverwaltung, Web-Service-Entwicklung, Netzwerk-Sicherheit, nur Studentenlevel
 
 ## Skills
 |Programmiersprachen|Level|
